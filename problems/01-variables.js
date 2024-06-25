@@ -1,4 +1,4 @@
-/*
+6/*
 Time to practice variables! Follow the comments for instructions. Be sure to
 test your work by running your code and the test specs!
 */
@@ -7,7 +7,7 @@ test your work by running your code and the test specs!
 //    as a string:
 
 // Your code here 
-let firstName = "Samri";
+let firstName = "Samrawit";
 
 // 2. Declare a variable called `lastName` and assign it your last name
 //    as a string:
@@ -19,7 +19,7 @@ let lastName = "Berih";
 
 // Your code here 
 
-let age= "30";
+let age= 
 // 4. Print out the `firstName`, `lastName`, and `age` variables. What
 //    do you expect them to be when they get printed?
 
@@ -37,7 +37,7 @@ age = 30;
 //    do you expect them to be when they get printed?
 
 // Your code here 
-console.log( firstName, lastName, age);
+console.log(Samrawit, Berih, 30);
 
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
 const obj = {};
